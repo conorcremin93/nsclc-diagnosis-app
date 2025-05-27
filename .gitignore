@@ -1,0 +1,6 @@
+setup/venv/
+__pycache__/
+*.gguf
+*.tar.gz
+*.xlsx
+outputs/
