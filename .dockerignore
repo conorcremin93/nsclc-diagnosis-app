@@ -1,0 +1,10 @@
+# Don't copy these into the image
+*.ipynb_checkpoints
+outputs/*
+setup/venv/*
+models/*
+__pycache__/
+*.tar
+*.zip
+*.gz
+.DS_Store
